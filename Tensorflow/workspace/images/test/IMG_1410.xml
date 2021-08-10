@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>IMG_1410.jpeg</filename>
+	<path>/Users/yuyaokamura/py-object-detection/Tensorflow/workspace/images/allimages/IMG_1410.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2316</width>
+		<height>3088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>443</xmin>
+			<ymin>1359</ymin>
+			<xmax>1773</xmax>
+			<ymax>2299</ymax>
+		</bndbox>
+	</object>
+</annotation>
