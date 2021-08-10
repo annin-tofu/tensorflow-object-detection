@@ -1,5 +1,3 @@
-# py-object-detection
-# py-object-detection
 # tensorflow-object-detection
-# tensorflow-object-detection
-# tensorflow-object-detection
+
+face mask detection program using Python/Tensorflow.
